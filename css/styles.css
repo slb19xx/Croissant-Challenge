@@ -1,0 +1,32 @@
+body {
+  background: linear-gradient(
+    99.6deg,
+    rgba(255, 136, 102, 0.67) -53.1%,
+    rgba(255, 221, 136, 0.28) 49%
+  );
+}
+
+.container {
+  max-width: 900px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h1,
+p,
+footer {
+  text-align: center;
+}
+
+.croissant-photo-homepage {
+  max-width: 350px;
+  padding: 10px;
+}
+
+.croissant-photo {
+  max-width: 450px;
+}
+
+footer a {
+  margin: 0 20px;
+}
